@@ -1,4 +1,5 @@
-##Heart Disease Detection
+Heart Disease Detection
+
 This project explores the application of machine learning techniques to detect the presence of heart disease from clinical data. The goal is to build a robust and accurate predictive model that can aid healthcare professionals in identifying individuals at high risk.
 
 Project Overview
@@ -49,4 +50,4 @@ Clone this repository.
 
 Install the required dependencies (e.g., NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn).
 
-Execute the provided Jupyter notebook or Python script to reproduce the analysis and model results.
+Execute the provided Jupyter notebook or Python script to reproduce the analysis and model results
